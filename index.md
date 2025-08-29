@@ -6,3 +6,7 @@
 ###### H6
 
 ![hamster](https://github.com/user-attachments/assets/0db782b7-6910-40bc-a6cd-56226c8483b1)
+
+```python
+print("Hello World")
+```
